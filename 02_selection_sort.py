@@ -1,5 +1,6 @@
 # Selection Sort in Python
-# Complexity: On²
+# Complexity: 
+#   All cases: O(n²)
 
 
 def selection_sort(v):

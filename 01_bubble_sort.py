@@ -1,6 +1,7 @@
 # Bubble Sort in Python
-
-# normal bublle sort
+# Complexity: 
+#   worst case: O(n²) 
+#   best case: O(n)
 
 
 def bubble_sort(v):

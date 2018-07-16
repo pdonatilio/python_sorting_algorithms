@@ -1,5 +1,7 @@
 # Insertion Sort in Python
-# Complexity: worst and medium case: O(n2) | best case O(n)
+# Complexity: 
+#   worst case: O(n²) 
+#   best case: O(n)
 
 
 def insertion_sort(v):
